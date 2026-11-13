@@ -1,0 +1,5 @@
+,id,statement,primary,unit,n,n_nonzero,mean_difference,ci_low,ci_high,p,min_attainable_p,holm_p,verdict
+0,L1,Local-contrast score raises held-out image AUROC,True,category,15,15,-0.018627990841973183,-0.03772864817105957,-0.0007968384911585519,0.9681396484375,3.0517578125e-05,0.9681396484375,not supported
+1,L2,Local-contrast score lowers held-out false alarms (test-split calibration),True,category,15,14,0.3837239678675192,0.2958554312072559,0.4671787243861286,0.0004907698762608342,6.103515625e-05,0.001963079505043337,supported
+2,L3,Local-contrast score costs less than 0.01 clean AUROC (non-inferiority),True,category,15,15,-0.002651533442714314,-0.005292914299962319,-0.00033695553188342435,0.0008850672357971382,3.0517578125e-05,0.002655201707391415,supported
+3,L4,Clean rank loss concentrates in large defects (per-category Spearman < 0),True,category,12,12,-0.014074368633677479,,,0.19384765625,0.000244140625,0.3876953125,not supported
