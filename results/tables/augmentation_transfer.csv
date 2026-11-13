@@ -1,0 +1,19 @@
+,pair,group,regime,n,mean_gain
+0,patchcore_wrn_aug - patchcore_wrn,photometric,seen,15,0.0647
+1,patchcore_wrn_aug - patchcore_wrn,photometric,heldout,15,0.0026
+2,patchcore_wrn_aug - patchcore_wrn,sensor,seen,15,0.13
+3,patchcore_wrn_aug - patchcore_wrn,sensor,heldout,15,0.0078
+4,patchcore_wrn_aug - patchcore_wrn,geometric,seen,14,0.0472
+5,patchcore_wrn_aug - patchcore_wrn,geometric,heldout,14,0.0252
+6,patchcore_dino_aug - patchcore_dino,photometric,seen,15,0.0279
+7,patchcore_dino_aug - patchcore_dino,photometric,heldout,15,-0.0031
+8,patchcore_dino_aug - patchcore_dino,sensor,seen,15,0.0979
+9,patchcore_dino_aug - patchcore_dino,sensor,heldout,15,0.021
+10,patchcore_dino_aug - patchcore_dino,geometric,seen,14,0.023
+11,patchcore_dino_aug - patchcore_dino,geometric,heldout,14,0.0024
+12,padim_wrn_aug - padim_wrn,photometric,seen,15,0.0196
+13,padim_wrn_aug - padim_wrn,photometric,heldout,15,-0.0045
+14,padim_wrn_aug - padim_wrn,sensor,seen,15,0.2366
+15,padim_wrn_aug - padim_wrn,sensor,heldout,15,0.0152
+16,padim_wrn_aug - padim_wrn,geometric,seen,14,0.0729
+17,padim_wrn_aug - padim_wrn,geometric,heldout,14,0.0226
